@@ -16,3 +16,9 @@
 ### Premier déploiement
 - ⏱️ Durée : **~4 min 20s**
 - ⚠️ Node 20 déprécié
+
+### Premier déploiement avec amélioration suivant 
+- ⏱️ Durée : **19s**
+- ✅ Node 24 utilisé ,pas de warning
+- ✅ Cache ajouté pour les dépendances
+- ✅ Build optimisé avec Vite
